@@ -1965,9 +1965,9 @@ nav a:hover {
 }
 
 .p1-gradient-bg, .primary-btn:after, .is-sticky .default-header, .single-img, .member-area .overlay-bg, .contact-area .primary-btn, .footer-social a:hover {
-  background-image: -moz-linear-gradient(0deg, #691cff 0%, #f51cb0 100%);
-  background-image: -webkit-linear-gradient(0deg, #691cff 0%, #f51cb0 100%);
-  background-image: -ms-linear-gradient(0deg, #691cff 0%, #f51cb0 100%);
+  background-image: -moz-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
+  background-image: -webkit-linear-gradient(0deg, #2e2624 0%, #000000 100%);
+  background-image: -ms-linear-gradient(0deg, #ffffff 0%, #f51cb0 100%);
 }
 
 .p1-gradient-color, .about-details h2 {
@@ -2022,7 +2022,7 @@ nav a:hover {
 }
 
 .banner-area {
-  background: url(../img/banner-bg.jpg) no-repeat center center/cover;
+  background: url(../img/banner2.jpg) no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
@@ -2237,7 +2237,7 @@ nav a:hover {
 .member-area {
   text-align: center;
   color: #fff;
-  background: url(../img/member-bg.jpg) no-repeat center center/cover;
+  background: url(../img/member-bg.png) no-repeat center center/cover;
 }
 
 .member-area .overlay-bg {
@@ -2354,7 +2354,7 @@ nav a:hover {
 }
 
 .about-area {
-  background: url(../img/about-bg.jpg) no-repeat left;
+  background: url(../img/faces.png) no-repeat left;
   background-size: cover;
 }
 
